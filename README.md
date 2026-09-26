@@ -5,14 +5,28 @@
 ## 目录
 
 - `shenmengxi/` → 沈梦曦（18 张）
-- `wangxuanbing/` → 王宣冰（20 张）
+- `wangxuanbing/` → 王萱冰（20 张）
 - `lixinwan/` → 李欣婉（18 张）
 
-## 约定
+## 文件命名
 
-- 图片统一 **WebP q85**，文件名 `cg-NN.webp`，由 `_tools/cg-upload.mjs` 生成，**不要手改**。
-- `manifest.json` 是唯一索引：`tier`（portrait/intimate/explicit/special）、`tags`、`desc` 可人工补全，其余字段自动生成。
-- `_source.json` 记录每个编号对应的原始文件名，便于溯源。
-- 酒馆侧通过 `_tools/cg-sync.mjs` 拉取到本地缓存后读取，**token 不进入前端**。
+`<数字ID>-<语义slug>.webp`，例如 `cg-07-bed-cowgirl-upright-swaying.webp`。
 
-生成时间：2026-09-26T05:12:15.360Z
+- **数字 ID**（`cg-07`）是给 AI 与正则用的调用键，短且稳定，世界书里只列 ID + 场景短语。
+- **语义 slug** 是给人看的画面描述，由 `_tools/cg-catalog.mjs`（逐张人工审阅得出）决定。
+- 两者都由脚本生成，**不要手改文件名**；改画面描述请改 `cg-catalog.mjs` 后重跑上传。
+
+## 索引
+
+`manifest.json` 是唯一索引，每张图含：`id` / `file` / `slug` / `tier` / `scene` / `tags`
+/ `loc` / `pos` / `act` / `cloth` / `mood` / `cum` / `sha256`。
+`_source.json` 记录每个 ID 对应的原始文件名，便于溯源。
+
+`tier` 分档：`portrait` 日常立绘 · `intimate` 亲密暧昧 · `explicit` 露骨 · `special` 剧情。
+
+## 酒馆侧
+
+通过 `_tools/cg-upload.mjs`（上传+缓存）与 `_tools/cg-sync.mjs`（拉取）同步到
+`SillyTavern/data/default-user/user/files/cg/`，前端只读本地缓存，**token 不进入前端**。
+
+生成时间：2026-09-26T05:24:08.900Z
