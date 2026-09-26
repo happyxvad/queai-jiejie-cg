@@ -29,4 +29,4 @@
 通过 `_tools/cg-upload.mjs`（上传+缓存）与 `_tools/cg-sync.mjs`（拉取）同步到
 `SillyTavern/data/default-user/user/files/cg/`，前端只读本地缓存，**token 不进入前端**。
 
-生成时间：2026-09-26T05:24:08.900Z
+生成时间：2026-09-26T05:25:33.986Z
