@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "repo": "happyxvad/queai-jiejie-cg",
-  "generated_at": "2026-09-26T05:25:33.986Z",
+  "generated_at": "2026-10-11T14:47:21.014Z",
   "note": "tier/tags/desc 可人工补全后重新上传；不要手改 file/sha256",
   "characters": [
     {
@@ -12,7 +12,7 @@
       ],
       "design": "黑色长直发、棕色眼睛、白肤、丰乳细腰长腿；安静隐忍的姐姐",
       "local_dir": "shenmengxi",
-      "count": 18,
+      "count": 19,
       "images": [
         {
           "id": "cg-01",
@@ -526,6 +526,37 @@
           "mood": "湿润眼眶",
           "cum": "",
           "desc": "仰躺被握住双手、黑蕾丝胸罩与丁字裤未脱"
+        },
+        {
+          "id": "cg-19",
+          "file": "shenmengxi/cg-19-wedding-white-lace-veil-white-roses.webp",
+          "slug": "wedding-white-lace-veil-white-roses",
+          "name": "cg-19-wedding-white-lace-veil-white-roses",
+          "origin": "2026年09月28日21点30分01秒.webp",
+          "src_folder": "沈梦曦cg图",
+          "bytes": 121514,
+          "src_bytes": 143208,
+          "width": 832,
+          "height": 1216,
+          "sha256": "f39e731a71e955e7357a9b5fb742289f3c3c0c7aac29c60213e61e6ec2c24a98",
+          "tier": "special",
+          "scene": "白色蕾丝婚纱与长头纱、手捧白玫瑰，婚礼上的新娘（结局/婚礼专用）",
+          "tags": [
+            "婚纱",
+            "婚礼",
+            "新娘",
+            "头纱",
+            "白玫瑰",
+            "捧花",
+            "结婚"
+          ],
+          "loc": "婚礼现场",
+          "pos": "正面站姿",
+          "act": "wedding",
+          "cloth": "白色蕾丝婚纱+头纱",
+          "mood": "温柔含笑",
+          "cum": "",
+          "desc": "白色蕾丝婚纱与长头纱、手捧白玫瑰，婚礼上的新娘（结局/婚礼专用）"
         }
       ]
     },
@@ -538,7 +569,7 @@
       ],
       "design": "浅棕褐色波浪中长发、金色/琥珀色眼睛、右眼下方有小痣；丰满成熟的年长女性",
       "local_dir": "wangxuanbing",
-      "count": 20,
+      "count": 21,
       "images": [
         {
           "id": "cg-01",
@@ -1102,6 +1133,37 @@
           "mood": "温柔微笑",
           "cum": "",
           "desc": "趴在你胸口上、抬眼看你、事后温存"
+        },
+        {
+          "id": "cg-21",
+          "file": "wangxuanbing/cg-21-wedding-offshoulder-lace-gown-pearls.webp",
+          "slug": "wedding-offshoulder-lace-gown-pearls",
+          "name": "cg-21-wedding-offshoulder-lace-gown-pearls",
+          "origin": "2026年09月28日21点30分03秒.webp",
+          "src_folder": "王宣冰cg图",
+          "bytes": 91912,
+          "src_bytes": 118348,
+          "width": 832,
+          "height": 1216,
+          "sha256": "9dc0a82baf73b64f98374e148a7793c59417ea154679eea6159af7e875c43d9e",
+          "tier": "special",
+          "scene": "白色露肩蕾丝婚纱、珍珠项链与垂坠耳饰，成熟温柔的准新娘（结局/婚礼专用）",
+          "tags": [
+            "婚纱",
+            "婚礼",
+            "新娘",
+            "露肩",
+            "蕾丝",
+            "珍珠项链",
+            "结婚"
+          ],
+          "loc": "婚礼现场",
+          "pos": "正面站姿",
+          "act": "wedding",
+          "cloth": "白色露肩蕾丝婚纱",
+          "mood": "温婉含笑",
+          "cum": "",
+          "desc": "白色露肩蕾丝婚纱、珍珠项链与垂坠耳饰，成熟温柔的准新娘（结局/婚礼专用）"
         }
       ]
     },
@@ -1113,7 +1175,7 @@
       ],
       "design": "深棕/黑色高马尾、深色眼睛、红唇、白肤；气质清冷带距离感的年上女性",
       "local_dir": "lixinwan",
-      "count": 18,
+      "count": 19,
       "images": [
         {
           "id": "cg-01",
@@ -1626,6 +1688,79 @@
           "mood": "对视",
           "cum": "",
           "desc": "坐姿插入、戴蓝色安全套、十指相扣"
+        },
+        {
+          "id": "cg-19",
+          "file": "lixinwan/cg-19-wedding-white-halter-dress-white-flowers.webp",
+          "slug": "wedding-white-halter-dress-white-flowers",
+          "name": "cg-19-wedding-white-halter-dress-white-flowers",
+          "origin": "2026年09月28日21点30分02秒.webp",
+          "src_folder": "李欣婉cg图",
+          "bytes": 95598,
+          "src_bytes": 119338,
+          "width": 832,
+          "height": 1216,
+          "sha256": "68bc41266c75106443529d8c563c002159c9cdb542b924a6574aa3ac001a09fa",
+          "tier": "special",
+          "scene": "白色挂脖婚纱、手捧白花，婚礼准备时的回眸（结局/婚礼专用）",
+          "tags": [
+            "婚纱",
+            "婚礼",
+            "新娘",
+            "挂脖婚纱",
+            "手捧花",
+            "结婚"
+          ],
+          "loc": "婚礼准备间",
+          "pos": "站姿回眸",
+          "act": "wedding",
+          "cloth": "白色挂脖婚纱",
+          "mood": "清冷而温柔",
+          "cum": "",
+          "desc": "白色挂脖婚纱、手捧白花，婚礼准备时的回眸（结局/婚礼专用）"
+        }
+      ]
+    },
+    {
+      "key": "trio",
+      "display": "三人同框",
+      "aliases": [
+        "三人合影",
+        "婚纱合影"
+      ],
+      "design": "沈梦曦、王萱冰、李欣婉三人同场出镜的合影专用目录（婚礼/结局等三人同框画面）",
+      "local_dir": "trio",
+      "count": 1,
+      "images": [
+        {
+          "id": "cg-01",
+          "file": "trio/cg-01-wedding-trio-white-dresses-side-by-side.webp",
+          "slug": "wedding-trio-white-dresses-side-by-side",
+          "name": "cg-01-wedding-trio-white-dresses-side-by-side",
+          "origin": "2026年09月28日21点30分00秒.webp",
+          "src_folder": "三人cg图",
+          "bytes": 138580,
+          "src_bytes": 164946,
+          "width": 832,
+          "height": 1216,
+          "sha256": "de16d24fbc7b6555b1efd5b5deab9251d5304811d0b9e8a5eeaa620a313e7ac5",
+          "tier": "special",
+          "scene": "三人同穿白色婚纱并肩而立的合影（只有三人同时在场时使用）",
+          "tags": [
+            "婚纱",
+            "婚礼",
+            "三人同框",
+            "合影",
+            "新娘",
+            "并肩"
+          ],
+          "loc": "婚礼现场",
+          "pos": "三人并列",
+          "act": "wedding",
+          "cloth": "白色婚纱",
+          "mood": "温柔相视",
+          "cum": "",
+          "desc": "三人同穿白色婚纱并肩而立的合影（只有三人同时在场时使用）"
         }
       ]
     }

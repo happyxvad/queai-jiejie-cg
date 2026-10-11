@@ -4,9 +4,10 @@
 
 ## 目录
 
-- `shenmengxi/` → 沈梦曦（18 张）
-- `wangxuanbing/` → 王萱冰（20 张）
-- `lixinwan/` → 李欣婉（18 张）
+- `shenmengxi/` → 沈梦曦（19 张）
+- `wangxuanbing/` → 王萱冰（21 张）
+- `lixinwan/` → 李欣婉（19 张）
+- `trio/` → 三人同框（1 张）
 
 ## 文件命名
 
@@ -29,4 +30,4 @@
 通过 `_tools/cg-upload.mjs`（上传+缓存）与 `_tools/cg-sync.mjs`（拉取）同步到
 `SillyTavern/data/default-user/user/files/cg/`，前端只读本地缓存，**token 不进入前端**。
 
-生成时间：2026-09-26T05:25:33.986Z
+生成时间：2026-10-11T14:47:21.014Z
