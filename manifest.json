@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "repo": "happyxvad/queai-jiejie-cg",
-  "generated_at": "2026-10-11T14:47:21.014Z",
+  "generated_at": "2026-10-17T09:30:31.815Z",
   "note": "tier/tags/desc 可人工补全后重新上传；不要手改 file/sha256",
   "characters": [
     {
@@ -1730,7 +1730,7 @@
       ],
       "design": "沈梦曦、王萱冰、李欣婉三人同场出镜的合影专用目录（婚礼/结局等三人同框画面）",
       "local_dir": "trio",
-      "count": 1,
+      "count": 2,
       "images": [
         {
           "id": "cg-01",
@@ -1761,6 +1761,38 @@
           "mood": "温柔相视",
           "cum": "",
           "desc": "三人同穿白色婚纱并肩而立的合影（只有三人同时在场时使用）"
+        },
+        {
+          "id": "cg-02",
+          "file": "trio/cg-02-wedding-trio-white-gowns-embracing-cheek-to-cheek.webp",
+          "slug": "wedding-trio-white-gowns-embracing-cheek-to-cheek",
+          "name": "cg-02-wedding-trio-white-gowns-embracing-cheek-to-cheek",
+          "origin": "2026年10月17日17点30分00秒.webp",
+          "src_folder": "三人cg图",
+          "bytes": 124876,
+          "src_bytes": 153946,
+          "width": 832,
+          "height": 1216,
+          "sha256": "7294668c9beec8d8a115974324c2c77796d8d4b24ba42fbe47e8ef5685015fe8",
+          "tier": "special",
+          "scene": "三人同穿白色婚纱紧挨着贴在一起（左沈梦曦、中李欣婉戴头纱、右王萱冰戴小皇冠），脸颊相贴看向镜头（只有三人同时在场、婚礼/订婚/结局使用）",
+          "tags": [
+            "婚纱",
+            "婚礼",
+            "三人同框",
+            "合影",
+            "新娘",
+            "头纱",
+            "小皇冠",
+            "脸颊相贴"
+          ],
+          "loc": "婚礼现场",
+          "pos": "三人贴面合影",
+          "act": "wedding",
+          "cloth": "白色婚纱",
+          "mood": "温柔幸福",
+          "cum": "",
+          "desc": "三人同穿白色婚纱紧挨着贴在一起（左沈梦曦、中李欣婉戴头纱、右王萱冰戴小皇冠），脸颊相贴看向镜头（只有三人同时在场、婚礼/订婚/结局使用）"
         }
       ]
     }
